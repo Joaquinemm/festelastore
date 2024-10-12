@@ -1,9 +1,9 @@
 @font-face {
     font-family: 'Poppins';
-    src: url(fonts/Poppins-ExtraLightItalic.ttf);
+    src: url(Poppins-ExtraLightItalic.ttf);
 }
 
 @font-face {
     font-family: 'PlayfairDisplay';
-    src: url(fonts/PlayfairDisplay-Bold.ttf);
+    src: url(PlayfairDisplay-Bold.ttf);
 }
